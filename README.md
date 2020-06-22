@@ -94,6 +94,7 @@
 - less/less-loader => less语法
 - babel-plugin-transform-remove-console => 移除console插件
 
+### 项目页面
 ![](https://github.com/yanfzh/ManageSystem_vue/blob/master/1.JPG)
 ![](https://github.com/yanfzh/ManageSystem_vue/blob/master/2.JPG)
 ![](https://github.com/yanfzh/ManageSystem_vue/blob/master/3.JPG)
