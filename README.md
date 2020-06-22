@@ -1,8 +1,6 @@
 ### 功能
 
 > 用于管理用户账号，商品分类，商品信息，订单，数据统计等业务功能
-![](https://gitee.com/wBekvam/vue-shop-admin/raw/master/image/mall_desc01.png)
-
 
 ### 开发模式
 
@@ -96,3 +94,11 @@
 - less/less-loader => less语法
 - babel-plugin-transform-remove-console => 移除console插件
 
+![](https://github.com/yanfzh/ManageSystem_vue/blob/master/1.JPG)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/master/2.JPG)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/master/3.JPG)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/master/4.JPG)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/master/5.JPG)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/master/6.JPG)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/master/7.JPG)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/master/8.JPG)
