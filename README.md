@@ -95,11 +95,14 @@
 - babel-plugin-transform-remove-console => 移除console插件
 
 ### 项目页面
-![](https://github.com/yanfzh/ManageSystem_vue/blob/master/1.JPG)
-![](https://github.com/yanfzh/ManageSystem_vue/blob/master/2.JPG)
-![](https://github.com/yanfzh/ManageSystem_vue/blob/master/3.JPG)
-![](https://github.com/yanfzh/ManageSystem_vue/blob/master/4.JPG)
-![](https://github.com/yanfzh/ManageSystem_vue/blob/master/5.JPG)
-![](https://github.com/yanfzh/ManageSystem_vue/blob/master/6.JPG)
-![](https://github.com/yanfzh/ManageSystem_vue/blob/master/7.JPG)
-![](https://github.com/yanfzh/ManageSystem_vue/blob/master/8.JPG)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/1.jpg)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/2.jpg)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/3.jpg)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/4.jpg)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/5.jpg)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/6.jpg)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/7.jpg)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/8.jpg)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/a.jpg)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/b.jpg)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/c.jpg)
