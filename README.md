@@ -102,7 +102,7 @@
 ![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/5.jpg)
 ![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/6.jpg)
 ![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/7.jpg)
-![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/8.jpg)
 ![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/a.jpg)
 ![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/b.jpg)
+![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/8.jpg)
 ![](https://github.com/yanfzh/ManageSystem_vue/blob/pictures/c.jpg)
